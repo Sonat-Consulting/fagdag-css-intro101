@@ -5,7 +5,7 @@ In this assigment you will need to grasp the concept of selectors to change the 
 
 #### Assigment
 1. Open up the HTML file in this folder
-2. Use the appropriate selectors to make the chages defined below
+2. Use the appropriate selectors to make the chages defined below inside the CSS sheet.
 
 
 ## Changes to implement
