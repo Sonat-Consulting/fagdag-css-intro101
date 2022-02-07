@@ -53,13 +53,12 @@ p:first-of-type {
 ### When to target use id, class or tag name?
 Looking at this cheatsheet, you can consider how to go about your selectors:
 
-| Selector | Unique | Repetative | Custom |
-|---|---|---|---|
-| ID | x | - | x |
-| Class | - | x | x |
-| Tag | - | x | - |
+| Selector | Unique | Repetative | Custom | Example |
+|---|---|---|---|---|
+| ID | x | - | x | #footer {} |
+| Class | - | x | x | .header {} |
+| Tag | - | x | - | div {} |
 
-While the table does say tags are not custom, it is possible to create custom tags in HTML5.
-But for the sake of this tutorial we will just make examples of common and predefined HTML tags.
+* While HTML5 does make it possible to create custom tags, this tutorial will just use common and predefined tags.
 
 ### Assignments
