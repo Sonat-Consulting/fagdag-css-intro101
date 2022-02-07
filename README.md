@@ -11,8 +11,9 @@
 * You can use an external stylesheet referenced
 * Inline styling is possible
 
-#### Why should. I use it
+#### Why should I use it
 * CSS is a good way to control the layout of several web pages all at once
+* Using CSS in a good way promotes less messy HTML
 
 ## CSS Selectors
 To be able to select what you want to define in CSS, we use selectors.
@@ -49,4 +50,16 @@ p:first-of-type {
 }
 ```
 
-### Resources
+### When to target use id, class or tag name?
+Looking at this cheatsheet, you can consider how to go about your selectors:
+
+| Selector | Unique | Repetative | Custom |
+|---|---|---|---|
+| ID | x | - | x |
+| Class | - | x | x |
+| Tag | - | x | - |
+
+While the table does say tags are not custom, it is possible to create custom tags in HTML5.
+But for the sake of this tutorial we will just make examples of common and predefined HTML tags.
+
+### Assignments
