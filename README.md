@@ -17,8 +17,7 @@
 
 ## CSS Selectors
 To be able to select what you want to define in CSS, we use selectors.
-Selectors in CSS can be targeted by selector name, id or class.
-Id should be unique in each rendered DOM, class and tag can be repeated.
+
 
 Lets say you have these paragraphs:
 ```
