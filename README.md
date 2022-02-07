@@ -59,6 +59,6 @@ Looking at this cheatsheet, you can consider how to go about your selectors:
 | Class | - | x | x | .header {} |
 | Tag | - | x | - | div {} |
 
-* While HTML5 does make it possible to create custom tags, this tutorial will just use common and predefined tags.
+* HTML5 does make it possible to create custom tags - this tutorial will use common tags.
 
 ### Assignments
