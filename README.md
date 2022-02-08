@@ -64,3 +64,4 @@ Looking at this cheatsheet, you can consider how to go about your selectors:
 * [01 - CSS Selectors](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/01-selectors) 
 * [02 - Colors and units](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/02-colors-and-units) 
 * [03 - Fonts](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/03-fonts) 
+* [04 - Animations](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/04-animations) 
