@@ -22,8 +22,10 @@ In this assigment you will need to grasp the concept of selectors to change the 
 
 ### Related resources
 
-* https://www.w3schools.com/css/css_link.asp
-* https://www.w3schools.com/css/css_margin.asp
+* [fagdag-css-intro101 about selectors](https://github.com/Sonat-Consulting/fagdag-css-intro101/blob/main/README.md)
+* [W3Schools about CSS links](https://www.w3schools.com/css/css_link.asp) 
+* [W3Schools about CSS margins](https://www.w3schools.com/css/css_margin.asp)  
+* [W3Schools about CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)  
 
 ### Assignments
 When you are done with this assignment, please move along to assignment 2.
