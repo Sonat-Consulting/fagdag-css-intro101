@@ -61,3 +61,4 @@ Looking at this cheatsheet, you can consider how to go about your selectors:
 * HTML5 does make it possible to create custom tags - this tutorial will use common tags.
 
 ### Assignments
+* [01 - CSS Selectors](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/01-selectors) 
