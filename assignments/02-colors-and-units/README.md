@@ -42,9 +42,9 @@ CSS properties such as padding, margin, height, font-size will accept different 
 
 ### Related resources
 * W3c resources 
-  * Units: https://www.w3schools.com/cssref/css_units.asp
-  * Color values: https://www.w3schools.com/cssref/css_colors_legal.asp
-  * Colors: https://www.w3schools.com/cssref/css_colors.asp
+  * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+  * [Color values](https://www.w3schools.com/cssref/css_colors_legal.asp) 
+  * [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp)
   
 ### Assignments
-When you are done with this assignment, please move along to assignment 3.
+When you are done with this assignment, please move along to assignment [03 - Fonts](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/03-fonts).
