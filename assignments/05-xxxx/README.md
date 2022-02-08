@@ -1,7 +1,7 @@
 # Introduction to Cascading Style Sheets (CSS)
 
-## Animations
-In this assigment you will learn how to make dreams come true, that is if you dream about CSS!
+## Xxx
+In this assigment you will learn Xxx
 
 #### Assigment
 1. Open up the HTML file in this folder
@@ -18,4 +18,4 @@ In this assigment you will learn how to make dreams come true, that is if you dr
 * ....
 
 ### Assignments
-When you are done with this assignment, please move along to assignment 5.
+When you are done with this assignment, please move along to assignment 6.

@@ -31,4 +31,4 @@ Browser support for fonts vary, this means what you design on your computer may 
 * [Web-safe fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 
 ### Assignments
-When you are done with this assignment, please move along to assignment [04 - Animations](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/04-animations).
+When you are done with this assignment, please move along to assignment [04-media-queries](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/04-media-queries).
