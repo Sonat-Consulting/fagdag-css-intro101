@@ -28,4 +28,4 @@ In this assigment you will need to grasp the concept of selectors to change the 
 * [W3Schools about CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)  
 
 ### Assignments
-When you are done with this assignment, please move along to assignment 2.
+When you are done with this assignment, please move along to assignment [02 - Colors and units](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/02-colors-and-units).
