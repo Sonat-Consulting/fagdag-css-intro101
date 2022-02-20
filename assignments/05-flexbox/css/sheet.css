@@ -19,12 +19,13 @@ nav .navigation a:hover {
     background: #1565C0;
 }
 
-aside ul a {
+aside {
+    display: flex;
     text-decoration: none;
     color: #1565C0;
 }
 
-aside ul a:hover {
+aside a:hover {
     color: #308dff;
 }
 
@@ -92,4 +93,9 @@ footer section span:nth-child(1)  {
 
 footer section span:nth-child(2) {
     color: black;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 200px;
 }
