@@ -32,6 +32,4 @@ He has laid them out in a grid container, but it's looking a bit off. Can you ch
 3. BONUS: Can you give every other element in the grid a red background color
 
 ### Related resources
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-

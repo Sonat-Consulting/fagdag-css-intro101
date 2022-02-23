@@ -40,5 +40,3 @@ Not sure it looks better this way, but that's not the point ;)
 
 ### Related resources
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
