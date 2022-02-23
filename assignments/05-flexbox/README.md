@@ -23,18 +23,18 @@ For further information about flexbox, please look at "A Complete Guide to Flexb
 Change it so the elements inside flows vertically, instead of horizontally. 
 <details>
   <summary>Hint</summary>
-  `Change the "flex-direction"`
+  Change the "flex-direction"
 </details>
 2. The text of the sidebar now probably looks a bit cramped. Try to make the text not wrap to a new line.
 <details>
   <summary>Hint</summary>
-  `Use the white-space attribute. Also min-width probably works fine for this exercise.`
+  Use the white-space attribute. Also min-width probably works fine for this exercise.
 </details>
 3. Now things look better, can you make all the content inside the sidebar align to the bottom, but keep the heading at the top
 Not sure it looks better this way, but that's not the point ;)
 <details>
   <summary>Hint</summary>
-  `Use margin auto`
+  Use margin auto
 </details>
 4. The sidebar does not look good on mobile, combine your knowledge of media queries and flexbox to align the sidebar under the article.
 

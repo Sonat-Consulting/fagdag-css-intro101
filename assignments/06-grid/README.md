@@ -22,12 +22,12 @@ For further information about grid, please look at "A Complete Guide to Grid" at
 He has laid them out in a grid container, but it's looking a bit off. Can you change the layout so we get 3 items per row.
 <details>
   <summary>Hint</summary>
-  `Use template columns`
+  Use template columns
 </details>
 2. Now things look better. On desktop. Can you think of a way to make things look nice on mobile as well.
 <details>
   <summary>Hint</summary>
-  `You guessed it media queries to the rescue again!`
+  You guessed it media queries to the rescue again!
 </details>
 3. BONUS: Can you give every other element in the grid a red background color
 
