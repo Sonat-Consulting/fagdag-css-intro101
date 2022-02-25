@@ -35,6 +35,6 @@ He has laid them out in a grid container, but it's looking a bit off. Can you ch
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Assignments all done :-)
-When you are done with this assignment, you can compare your result with [07-final](hhttps://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/07-final).
+When you are done with this assignment, you can compare your result with [07-final](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/07-final).
 
 
