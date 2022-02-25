@@ -40,3 +40,6 @@ Not sure it looks better this way, but that's not the point ;)
 
 ### Related resources
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Assignments
+When you are done with this assignment, please move along to assignment [06-grid](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/06-grid).

@@ -26,4 +26,4 @@ Using CSS3 Media Queries to make your webpages responsive.
 * [W3Schools Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 ### Assignments
-When you are done with this assignment, please move along to assignment 5.
+When you are done with this assignment, please move along to assignment [05-flexbox](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/05-flexbox).
