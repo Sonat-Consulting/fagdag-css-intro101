@@ -67,4 +67,4 @@ Looking at this cheatsheet, you can consider how to go about your selectors:
 * [04-media-queries](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/04-media-queries) 
 * [05-flexbox](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/05-flexbox) 
 * [06-grid](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/06-grid) 
-* [07-final](hhttps://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/07-final) 
+* [07-final](https://github.com/Sonat-Consulting/fagdag-css-intro101/tree/main/assignments/07-final) 
